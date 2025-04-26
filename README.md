@@ -11,6 +11,8 @@ A sophisticated tool that analyzes the emotional journey of films through their 
 - **Beautiful Visualization**: Creates an ethereal, cinematic visualization of the emotional journey
 - **Interactive Tooltips**: Elegant tooltips showing key moments and dialogue
 
+![Cover art of Film Emotion Analyzer](eeaao.jpg)
+
 ## Technical Details
 
 ### Emotion Analysis
